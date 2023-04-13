@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+//A Bashscript//
+ssh-keygen -t rsa -b 4096 -f /root/.ssh/school
